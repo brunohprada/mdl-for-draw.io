@@ -9,7 +9,7 @@ When observing the implementation of whole projects making use of MDA, it was di
 However, the lack of a ubiquitous notation of understanding and adherence to ceremonies of agile design definitions, generates errors, rework, and significantly increases development time.
 And this was the fuel for the creation of a new, ubiquitous, MDA-oriented application designer framework that adheres to agility.
 
-For more information and how to use the model, we strongly encourage you to read the CDM documentation. [MDL Documentation](http://aboutmda.com/mdl.html#contextViews)
+For more information and how to use the model, we strongly encourage you to read the MDL documentation. [MDL Documentation](http://aboutmda.com/mdl.html#contextViews)
 
 ## About this project
 
