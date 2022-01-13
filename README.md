@@ -13,7 +13,7 @@ For more information and how to use the model, we strongly encourage you to read
 
 ## About this project
 
-This project aims to provide elements based on the CDM Model to be used in the draw.io diagramming software.
+This project aims to provide elements based on the MDL Model to be used in the draw.io diagramming software.
 
 ## How to use the elements
 
